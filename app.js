@@ -4,7 +4,7 @@
  * [FILE] app.js
  *
  * [DESCRIPTION]
- *  Lesson 3a - WEBサービスにアクセスする（その2）
+ *  Lesson Web 2 - WEBサービスにアクセスする（その2）
  * 　スラッシュコマンドに引数を与える
  * 
  * [NOTE]
